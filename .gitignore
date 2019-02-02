@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# temp folder
+/tmp
+
+# Node modules
+node_modules
