@@ -1,0 +1,13 @@
+{
+  "name": "@donesteban/hello",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "license": "MIT",
+  "repository": "don-esteban/hello",
+  "main": "index.js",
+  "keywords": [
+    "donesteban",
+    "npm",
+    "package"
+  ]
+}
